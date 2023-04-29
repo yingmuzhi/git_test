@@ -7,4 +7,5 @@ int main(){
     int c;
     int d;
     int e;
+    int g;
 }
